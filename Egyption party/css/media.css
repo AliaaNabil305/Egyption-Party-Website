@@ -1,0 +1,26 @@
+
+@media only screen and (max-width: 580px) {
+}
+/* // Medium devices (tablets, 768px and up) */
+@media only screen and (max-width: 760px) {
+    .clock h3
+    {
+        margin: 10px !important;
+    }
+}
+
+
+/* // Large devices (desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+    .clock h3
+    {
+        margin: 30px;
+    }
+    .icons 
+    {
+        margin:  0px 0px 20px;
+        text-align: center;
+    }
+} 
+    
+
